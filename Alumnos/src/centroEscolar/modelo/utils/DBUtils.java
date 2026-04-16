@@ -1,0 +1,11 @@
+package centroEscolar.modelo.utils;
+
+/**
+ * Configuración de BBDD
+ */
+public class DBUtils {
+	public static final String URL = "jdbc:mysql://localhost:3306/centroescolar";
+	public static final String DRIVER = "com.mysql.cj.jdbc.Driver";
+	public static final String USER = "root";
+	public static final String PASS = "";
+}
